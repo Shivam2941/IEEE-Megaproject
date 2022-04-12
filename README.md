@@ -1,5 +1,5 @@
 <h1 align="center">IEEE MegaProject</h1>
-<h3 align="center">Organised by IEEE Student Branch BIT Mesra</h3>
+<h3 align="center">Organised   by IEEE Student Branch BIT Mesra</h3>
 
 # About the Event
 "Talent wins games, but teamwork and intelligence win championships." – Michael Jordan
